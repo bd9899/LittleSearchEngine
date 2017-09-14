@@ -8,7 +8,7 @@ import java.util.*;
  * document name, and the frequency of occurrence in that document. Occurrences are
  * associated with keywords in an index hash table.
  * 
- * @author Sesh Venugopal
+ * @author of class Sesh Venugopal, methods filled in by me
  * 
  */
 class Occurrence {
